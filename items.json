@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Harry",
+      "surname": "Potter",
+      "origin": "Half-Blood",
+      "house": "Gryffindor",
+      "wand": "11 inches, Holly, Phoenix feather",
+      "pet": "Hedwig",
+      "patronus": "Stag",
+      "isEnemy": false
+    },
+    {
+      "id": 2,
+      "name": "Hermione",
+      "surname": "",
+      "origin": "Muggle-Born",
+      "house": "Gryffindor",
+      "wand": "10 ¾ inches, Vine, Dragon heartstring",
+      "pet": "Crookshanks",
+      "patronus": "Otter",
+      "isEnemy": false
+    },
+    {
+      "id": 3,
+      "name": "Ginny",
+      "surname": "Weasley",
+      "origin": "Pure-Blood",
+      "house": "Gryffindor",
+      "wand": "Yew, unknown",
+      "pet": "Arnold",
+      "patronus": "Horse",
+      "isEnemy": false
+    },
+    {
+      "id": 4,
+      "name": "Tom",
+      "surname": "Riddle",
+      "origin": "Half-Blood",
+      "house": "Slytherin",
+      "wand": "13 ½ inches, Yew, Phoenix feather",
+      "pet": "Nagini",
+      "patronus": "None",
+      "isEnemy": false
+    },
+    {
+      "id": 5,
+      "name": "Bellatrix",
+      "surname": "Lestrange",
+      "origin": "Pure-Blood",
+      "house": "Slytherin",
+      "wand": "12 ¾ inches, walnut, dragon heartstring",
+      "pet": "Unknown",
+      "patronus": "None",
+      "isEnemy": false
+    },
+    {
+      "id": 6,
+      "name": "Albus",
+      "surname": "Dumbledore",
+      "origin": "Half-Blood",
+      "house": "Gryffindor",
+      "wand": "15 inches, Elder, Thestral tail hair",
+      "pet": "Fawkes",
+      "patronus": "Phoenix",
+      "isEnemy": false
+    },
+    {
+      "id": 7,
+      "name": "Draco",
+      "surname": "Malfoy",
+      "origin": "Pure-Blood",
+      "house": "Slytherin",
+      "wand": "10 inches, Hawthorn, Unicorn hair",
+      "pet": "Unknown",
+      "patronus": "Unknown",
+      "isEnemy": false
+    },
+    {
+      "id": 8,
+      "name": "Minerva",
+      "surname": "McGonagall",
+      "origin": "Half-Blood",
+      "house": "Gryffindor",
+      "wand": "9 ½ inches, Fir, Dragon heartstring",
+      "pet": "Unknown",
+      "patronus": "Cat",
+      "isEnemy": false
+    },
+    {
+      "id": 9,
+      "name": "Cedric",
+      "surname": "Diggory",
+      "origin": "Pure-Blood",
+      "house": "Hufflepuff",
+      "wand": "12 ¼ inches, Ash, Unicorn hair",
+      "pet": "Unknown",
+      "patronus": "Unknown",
+      "isEnemy": false
+    },
+    {
+      "id": 10,
+      "name": "Severus",
+      "surname": "Snape",
+      "origin": "Half-Blood",
+      "house": "Slytherin",
+      "wand": "13 ½ inches, Yew, Phoenix feather",
+      "pet": "Unknown",
+      "patronus": "Doe",
+      "isEnemy": false
+    },
+    {
+      "id": 11,
+      "name": "Luna",
+      "surname": "Lovegood",
+      "origin": "Pure-Blood",
+      "house": "Ravenclaw",
+      "wand": "Unknown",
+      "pet": "Thestral named \"Aquila\"",
+      "patronus": "Hare",
+      "isEnemy": false
+    },
+    {
+      "id": 12,
+      "name": "Padma",
+      "surname": "Patil",
+      "origin": "Pure-Blood",
+      "house": "Ravenclaw",
+      "wand": "Unknown",
+      "pet": "Unknown",
+      "patronus": "Unknown",
+      "isEnemy": false
+    },
+    {
+      "id": 13,
+      "name": "Nymphadora",
+      "surname": "Tonks",
+      "origin": "Half-Blood",
+      "house": "Hufflepuff",
+      "wand": "12 ¾ inches, Larch, Phoenix feather",
+      "pet": "Unknown",
+      "patronus": "Wolf",
+      "isEnemy": false
+    },
+    {
+      "id": 14,
+      "name": "Pomona",
+      "surname": "Sprout",
+      "origin": "Unknown",
+      "house": "Hufflepuff",
+      "wand": "Unknown",
+      "pet": "Unknown",
+      "patronus": "Unknown",
+      "isEnemy": false
+    },
+    {
+      "id": 15,
+      "name": "Neville",
+      "surname": "Longbottom",
+      "origin": "Pure-Blood",
+      "house": "Gryffindor",
+      "wand": "13 inches, Cherry, Unicorn hair",
+      "pet": "Unknown",
+      "patronus": "Unknown",
+      "isEnemy": false
+    }
+  ]
+}
