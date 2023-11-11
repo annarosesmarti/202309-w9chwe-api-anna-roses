@@ -1,5 +1,5 @@
 {
-  "Characters": [
+  "characters": [
     {
       "id": 1,
       "name": "Harry",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Hermione",
-      "surname": "",
+      "surname": "Granger",
       "origin": "Muggle-Born",
       "house": "Gryffindor",
       "wand": "10 ¾ inches, Vine, Dragon heartstring",
