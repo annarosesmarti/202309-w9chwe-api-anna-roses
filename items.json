@@ -165,7 +165,8 @@
       "wand": "Unknown",
       "pet": "Unknown",
       "patronus": "Unknown",
-      "isEnemy": false
+      "isEnemy": false,
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9chwe-api-anna-roses/main/public/images/id-14.webp"
     },
     {
       "id": 15,
@@ -176,7 +177,8 @@
       "wand": "13 inches, Cherry, Unicorn hair",
       "pet": "Unknown",
       "patronus": "Unknown",
-      "isEnemy": false
+      "isEnemy": false,
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9chwe-api-anna-roses/main/public/images/id-15.webp"
     }
   ]
 }
